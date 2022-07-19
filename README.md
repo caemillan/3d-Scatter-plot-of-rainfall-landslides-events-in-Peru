@@ -1,4 +1,4 @@
-# Rainfall_thresholds_for_shallow_landslide
+# 3d-Scatter-plot-of-rainfall-landslides-events-in-Peru
 
 Este plot es un ejemplo del potencial de uso de variables de eventos de lluvia para la estimación de umbrales para Perú.
 Para acceder a este repositorio pulsar [aqui](https://caemillan.github.io/3d-Scatter-plot-of-rainfall-landslides-events-in-Peru/).
